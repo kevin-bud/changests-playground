@@ -1,5 +1,11 @@
 # changests-playground
 
+## 2.4.2
+
+### Patch Changes
+
+- b6466e5: Test minor patch
+
 ## 2.4.1
 
 ### Patch Changes
