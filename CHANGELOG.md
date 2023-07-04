@@ -1,5 +1,11 @@
 # changests-playground
 
+## 2.4.3
+
+### Patch Changes
+
+- 3a7e6da: Revrt
+
 ## 2.4.2
 
 ### Patch Changes
