@@ -28,6 +28,6 @@ jobs:
         with:
           title: VNext Release
           createGithubReleases: true
-          publish: git push --follow-tags
+          publish: echo \"New tag:\ skip npm publish" && exit 0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
