@@ -28,5 +28,6 @@ jobs:
         with:
           title: VNext Release
           createGithubReleases: true
+          publish: echo Skipping publish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
