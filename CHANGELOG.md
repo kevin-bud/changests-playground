@@ -1,5 +1,11 @@
 # changests-playground
 
+## 2.4.1
+
+### Patch Changes
+
+- 4c1c3e7: Add conventional commit message
+
 ## 2.4.0
 
 ### Minor Changes
