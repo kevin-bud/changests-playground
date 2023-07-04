@@ -1,5 +1,11 @@
 # changests-playground
 
+## 3.0.0
+
+### Major Changes
+
+- 2b8e78e: Major change
+
 ## 2.4.3
 
 ### Patch Changes
