@@ -27,7 +27,8 @@ jobs:
         uses: changesets/action@v1
         with:
           title: VNext Release
+          commit: "chore: version packages"
           createGithubReleases: true
-          publish: echo \"New tag:\ skip npm publish" && exit 0
+          publish: echo \"New tag:\ skip npm publish" && exit 0 # https://github.com/changesets/action/issues/269#issue-1603215919
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
