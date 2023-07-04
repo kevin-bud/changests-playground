@@ -1,5 +1,11 @@
 # changests-playground
 
+## 2.3.0
+
+### Minor Changes
+
+- bad4d18: Test bump
+
 ## 2.2.0
 
 ### Minor Changes
