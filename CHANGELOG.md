@@ -1,5 +1,15 @@
 # changests-playground
 
+## 3.1.0
+
+### Minor Changes
+
+- efe4017: Test for changelog
+
+### Patch Changes
+
+- 0d62d72: Made a change to the value
+
 ## 3.0.0
 
 ### Major Changes
