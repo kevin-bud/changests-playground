@@ -1,5 +1,11 @@
 # changests-playground
 
+## 3.2.0
+
+### Minor Changes
+
+- 6b100fd: Test private config
+
 ## 3.1.0
 
 ### Minor Changes
