@@ -1,5 +1,11 @@
 # changests-playground
 
+## 2.4.4
+
+### Patch Changes
+
+- 5d7c68e: Testing hotfix from a tag
+
 ## 2.4.3
 
 ### Patch Changes
